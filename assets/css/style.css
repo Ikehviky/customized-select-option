@@ -43,7 +43,6 @@ h2{
     justify-content: space-between;
     background-color: #2f3640;
     border-radius: 8px;
-    margin-bottom: 8px;
     color: #f5f6fa;
     position: relative;
 
@@ -97,7 +96,7 @@ h2{
     display: none;
 } 
  
-@media screen and (max-width:400px){
+@media screen and (max-width:450px){
 
     .container{
         margin: 100px auto;
